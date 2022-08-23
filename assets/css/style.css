@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    color: white;
+}
+
+.div1{
+
+    border: 10px white solid;
+    border-radius: 20px;
+}
+
+div{
+    background-color: black;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+p{
+    
+    font-size: 0.8rem;
+}
+ul{
+    justify-content: center;
+    display: flex;
+    line-height: 50px;
+    list-style: none;
+    gap: 50px;
+    font-size: 2rem;
+    
+}
